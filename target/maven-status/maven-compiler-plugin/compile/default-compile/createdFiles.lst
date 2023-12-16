@@ -1,0 +1,13 @@
+com\smk\bi\views\MainLayout.class
+com\smk\bi\views\LoginView.class
+com\smk\bi\views\report\CreateReportFormView.class
+META-INF\resources\images\empty-plant.png
+application.properties
+com\smk\bi\Application.class
+com\smk\bi\views\helloworld\HelloWorldView.class
+META-INF\resources\icons\icon.png
+META-INF\VAADIN\config\flow-build-info.json
+com\smk\bi\repository\CategoryRepository.class
+com\smk\bi\views\about\AboutView.class
+banner.txt
+com\smk\bi\model\Category.class

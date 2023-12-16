@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/User/codingjava/don/my-app/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/User/codingjava/don/my-app/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/User/codingjava/don/my-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\User\\codingjava\\don\\my-app\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\User\\codingjava\\don\\my-app\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/User/codingjava/don/my-app/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/User/codingjava/don/my-app/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/User/codingjava/don/my-app/frontend/generated/jar-resources",
+  "themeName": "movie.theater",
+  "clientServiceWorkerSource": "C:\\Users\\User\\codingjava\\don\\my-app\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
